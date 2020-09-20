@@ -2,4 +2,4 @@
 
 #include <iomanip>
 
-using namespace boost
+using namespace boost;
